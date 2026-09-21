@@ -1,7 +1,7 @@
 import { useEffect, useRef, useState } from "react";
 import "./index.css";
 
-const BACKEND_URL = "http://localhost:5000";
+const BACKEND_URL = "https://text-to-speech-backend-ukpj.onrender.com";
 
 const fallbackVoices = [
   {
